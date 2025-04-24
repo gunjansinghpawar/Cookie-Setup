@@ -1,0 +1,35 @@
+{
+  "name": "cookie-setup",
+  "version": "1.0.0",
+  "description": "Lightweight cross-browser cookie manager for email and ID sessions",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "cookie",
+    "session",
+    "cookie-manager",
+    "npm",
+    "email",
+    "user_id",
+    "express",
+    "typescript"
+  ],
+  "author": "Your Name <your@email.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gunjansinghpawar/cookie-setup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gunjansinghpawar/cookie-setup/issues"
+  },
+  "homepage": "https://github.com/gunjansinghpawar/cookie-setup#readme"
+}
